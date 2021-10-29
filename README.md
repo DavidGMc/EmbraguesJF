@@ -6,5 +6,5 @@ HTML, Boostrap 5, Javascript, JQuery
 2) servidor local con xampp u otro en ejecucion
 3) clona o descarga este repositorio y abrelo con tu IDE favorito (VisualstudioCode en nuestro caso)
 4) ejecuta el proyecto
-5) ingresa con las siguientes credenciales de acceso usuario = Admin Contraseña =Admin o Usuario = Adsi Contraseña = Adsi123
+5) ingresa con las siguientes credenciales de acceso usuario = Admin Contraseña =Admin 
 6) y !listo verifica cada uno de los modulos
